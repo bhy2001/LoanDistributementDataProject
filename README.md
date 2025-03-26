@@ -1,4 +1,4 @@
-# LoanDistributementDataProject
+# Loan Distributement Data Project
 
 <h1>Overview</h1>
 
